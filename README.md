@@ -41,6 +41,13 @@ Build command: `npm run build` · Output directory: `dist`.
 
 For deployment to Vercel or Netlify, enable SPA fallback so direct links such as `/exhibition/404` load correctly. This project includes `public/_redirects` for Netlify and `vercel.json` for Vercel.
 
+## 404 MUSEUM.
+An interactive museum of HTTP errors.
+
+An experimental web experience transforming HTTP status codes into interactive digital exhibitions.
+
+Live Demo: [Visit the Museum](https://404museum.netlify.app/)
+
 ## Project structure
 
 ```text
